@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|c:\\users\\jonathan\\onedrive\\programacion\\programacion ii\\proyecto 2\\jonathanmino\\jonathanmino\\ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|solutionrelative:jonathanmino\\ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|c:\\users\\jonathan\\onedrive\\programacion\\programacion ii\\proyecto 2\\jonathanmino\\jonathanmino\\ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|solutionrelative:jonathanmino\\ingreso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|c:\\users\\jonathan\\onedrive\\programacion\\programacion ii\\proyecto 2\\jonathanmino\\jonathanmino\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|solutionrelative:jonathanmino\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|c:\\users\\jonathan\\onedrive\\programacion\\programacion ii\\proyecto 2\\jonathanmino\\jonathanmino\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{289B7618-9C00-49C3-A0D4-06D278189474}|JonathanMino\\JonathanMino.vbproj|solutionrelative:jonathanmino\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingreso.vb",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Ingreso.vb",
+              "RelativeDocumentMoniker": "JonathanMino\\Ingreso.vb",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Ingreso.vb",
+              "RelativeToolTip": "JonathanMino\\Ingreso.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:28:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingreso.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Ingreso.vb",
+              "RelativeDocumentMoniker": "JonathanMino\\Ingreso.vb",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Ingreso.vb [Dise\u00F1o]",
+              "RelativeToolTip": "JonathanMino\\Ingreso.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:22:48.92Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Principal.vb",
+              "RelativeDocumentMoniker": "JonathanMino\\Principal.vb",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Principal.vb*",
+              "RelativeToolTip": "JonathanMino\\Principal.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:21:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Principal.vb",
+              "RelativeDocumentMoniker": "JonathanMino\\Principal.vb",
+              "ToolTip": "C:\\Users\\Jonathan\\OneDrive\\Programacion\\PROGRAMACION II\\Proyecto 2\\JonathanMino\\JonathanMino\\Principal.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "JonathanMino\\Principal.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-22T23:16:21.559Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
